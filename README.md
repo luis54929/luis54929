@@ -1,16 +1,21 @@
-### Hi there 👋
+# Luis Mendoza 👨‍💻
 
-<!--
-**luis54929/luis54929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+Hi there! I'm Luis, a student of computer science and engineering at Pontificia Universidad Javeriana Cali. I love solving problems, automating processes and tasks, being sociable, proactive and learning new things. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python 🐍
+- TensorFlow 🧠
+- Machine learning 🤖
+- Data analysis 📊
+- Web development 💻
+
+## Work experience
+
+- Data manager and developer at Security and Justice Department of Santiago de Cali. 💼
+- I'm currently working on my thesis project about using convolutional neural networks for predicting the trend of a currency in the foreign exchange market. 🎓
+## Contact me
+
+You can reach me at luis54929@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/luismendoza27). 📧

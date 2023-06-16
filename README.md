@@ -2,11 +2,13 @@
 
 ## About me
 
-Hi there! I'm Luis, a student of computer science and engineering at Pontificia Universidad Javeriana Cali. I love solving problems, automating processes and tasks, being sociable, proactive and learning new things. 🚀
+Hi there! I'm Luis, a student of computer science and engineering at [Pontificia Universidad Javeriana Cali](https://www.javerianacali.edu.co/programas/carreras/ingenieria-de-sistemas-y-computacion). I love solving problems, automating processes and tasks, being sociable, proactive and learning new things. 🚀
 
 ## Skills
 
 - Python 🐍
+- C/C++ ➕
+- VBA 💹
 - TensorFlow 🧠
 - Machine learning 🤖
 - Data analysis 📊

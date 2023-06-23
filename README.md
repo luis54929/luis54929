@@ -13,6 +13,7 @@ Hi there! I'm Luis, a student of computer science and engineering at [Pontificia
 - Machine learning 🤖
 - Data analysis 📊
 - Web development 💻
+- SQL🗄️
 
 ## Hobbies and Interests 🎮🍔🎬
 

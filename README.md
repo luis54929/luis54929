@@ -1,35 +1,44 @@
-# Luis Mendoza 👨‍💻
+# Hi, I'm Luis Mendoza 👨‍💻
+
+**Senior Backend Developer · Python, GenAI & Cloud**
+📍 Cali, Colombia · 🎓 Systems & Computer Engineering @ Pontificia Universidad Javeriana Cali
 
 ## About me
 
-Hi there! I'm Luis, a student of computer science and engineering at [Pontificia Universidad Javeriana Cali](https://www.javerianacali.edu.co/programas/carreras/ingenieria-de-sistemas-y-computacion). I love solving problems, automating processes and tasks, being sociable, proactive and learning new things. 🚀
+I'm a backend developer with 5+ years of experience building scalable APIs, cloud architectures and GenAI systems. I currently work at **Tata Consultancy Services**, building production backend and AI agent infrastructure for a large engineering organization.
 
-## Skills
+I love solving problems, automating anything repetitive, and learning new things. My focus: clean architecture, async systems and applied GenAI. 🚀
 
-- Python 🐍
-- C/C++ ➕
-- VBA 💹
-- TensorFlow 🧠
-- Machine learning 🤖
-- Data analysis 📊
-- Web development 💻
-- SQL🗄️
+## What I work with
 
-## Hobbies and Interests 🎮🍔🎬
+**Languages:** Python · SQL · PL/SQL · JavaScript · C++ · VBA
 
-In my free time, I enjoy watching series, playing video games, and going to the movies. I also love trying out new restaurants and consider myself a hamburger connoisseur! 🍔
+**Backend:** FastAPI · Django · Flask · Pydantic · asyncio · pytest
 
-## Goals and Inspiration 💡🚀
+**GenAI:** LangGraph · LangChain · OpenAI & Anthropic APIs · RAG · Prompt Engineering · AI Agents
 
-I'm inspired by the idea of using automation to improve processes with low complexity. I love solving challenges and finding ways to make things more efficient.
+**Cloud & DevOps:** AWS (Lambda, API Gateway, SQS, SNS, EKS, S3, RDS) · GCP · Azure DevOps · Docker · Kubernetes · CI/CD
 
-## Work Experience 💼👨‍💻
+**Data:** PostgreSQL · MongoDB · Oracle
 
-- Data manager and developer at Security and Justice Department of Santiago de Cali. 💼
-- Created a contract management software for the city of Cali by the Secretary of Security and Justice.
-- Efficiently automated the process of entering criminal sentences in all police stations in Cali.
-- I'm currently working on my thesis project about using convolutional neural networks for predicting the trend of a currency in the foreign exchange market. 🎓
+## Experience
 
-## Contact me 📧
+- 💼 **Senior Backend Developer, TCS** (2026 – present): production backend and GenAI agent infrastructure with async architecture, third-party integrations and semantic memory.
+- ☁️ **Python Developer, Neostella** (2024 – 2025): serverless APIs on AWS Lambda, API Gateway and SQS, plus automation bots that cut manual work by 40%.
+- 🏦 **Senior Technology Analyst, Banco de Occidente** (2024 – 2025): containerized microservices on Docker/Kubernetes, and an LLM-powered chatbot that improved response times by 60%.
+- 🏛️ **Software Developer & DBA, Cali City Hall** (2022 – 2023): Django apps, database administration and automations that reduced processing time by 70%.
 
-You can reach me at luis54929@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/luismendoza27). 📧
+## Featured projects
+
+- 🛢️ **Nextier Oil Well Analysis Platform**: predictive analytics for oil operations; FastAPI backend, Dynamic Programming and vectorization cut computation time by 65%.
+- 🎮 **SATReLO**: video game platform for language therapy in children with hearing disabilities (Flask, OpenCV, PostgreSQL).
+- 📈 **Forex Prediction System**: thesis project using CNNs (Keras/TensorFlow) to predict EUR/USD trends.
+- 🤖 **AutoEntry SAUL & ManageDocumentUAG**: automation and document management tools for municipal government.
+
+## Beyond code 🎮🍔🎬
+
+I enjoy series, video games, movies, and trying new restaurants. I consider myself a hamburger connoisseur. 🍔
+
+## Let's connect
+
+📧 [luis54929@gmail.com](mailto:luis54929@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/luismendoza27)
